@@ -1,0 +1,1235 @@
+[
+  {
+    "event_time": "2025-05-26T02:02:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-fbf7",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-22T15:26:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-9da3",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-22T06:44:07.669500Z",
+    "action": "Logon",
+    "user": "user-9da3",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T13:03:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-0a8a",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T18:39:07.669500Z",
+    "action": "Logon",
+    "user": "user-806e",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T11:16:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-fbf7",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-22T06:19:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-806e",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T02:21:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-806e",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T19:23:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-9da3",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-23T17:52:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-9da3",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T23:51:07.669500Z",
+    "action": "Logon",
+    "user": "user-54c8",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T12:52:07.669500Z",
+    "action": "Logon",
+    "user": "user-54c8",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T13:48:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-848f",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T10:21:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-848f",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T02:07:07.669500Z",
+    "action": "Logon",
+    "user": "user-befd",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T16:53:07.669500Z",
+    "action": "Logon",
+    "user": "user-0a8a",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T05:34:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-befd",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-22T08:36:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-acb9",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T01:11:07.669500Z",
+    "action": "Logon",
+    "user": "user-befd",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T19:41:07.669500Z",
+    "action": "Logon",
+    "user": "user-fbf7",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T12:03:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-54c8",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-22T17:55:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-54c8",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-22T07:42:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-806e",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-29T01:56:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-9da3",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T16:28:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-848f",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-23T00:48:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-9da3",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-24T08:31:07.669500Z",
+    "action": "Logon",
+    "user": "user-806e",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T23:44:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-befd",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-24T15:54:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-54c8",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-24T11:47:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-54c8",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-28T17:47:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-54c8",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-23T04:49:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-9da3",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": false,
+    "details": "Invalid credentials"
+  },
+  {
+    "event_time": "2025-05-26T14:02:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-acb9",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T17:35:07.669500Z",
+    "action": "Logon",
+    "user": "user-acb9",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-22T09:46:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-806e",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T19:26:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-befd",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T16:54:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-8e55",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-24T06:36:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-fbf3",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-24T10:26:07.669500Z",
+    "action": "Logon",
+    "user": "user-0a8a",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T00:25:07.669500Z",
+    "action": "Logon",
+    "user": "user-befd",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T05:35:07.669500Z",
+    "action": "Logon",
+    "user": "user-befd",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T02:12:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-befd",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T18:41:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-0a8a",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-22T10:58:07.669500Z",
+    "action": "Logon",
+    "user": "user-fbf7",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T02:43:07.669500Z",
+    "action": "Logon",
+    "user": "user-848f",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T19:00:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-fbf3",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-25T21:28:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-806e",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T09:11:07.669500Z",
+    "action": "Logon",
+    "user": "user-54c8",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T19:03:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-848f",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T15:39:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-fbf3",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T08:41:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-8e55",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-22T10:27:07.669500Z",
+    "action": "Logon",
+    "user": "user-9da3",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T15:08:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-fbf7",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T12:39:07.669500Z",
+    "action": "Logon",
+    "user": "user-9da3",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T10:19:07.669500Z",
+    "action": "Logon",
+    "user": "user-848f",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T00:59:07.669500Z",
+    "action": "Logon",
+    "user": "user-fbf3",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-22T14:05:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-54c8",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T17:10:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-848f",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-22T21:46:07.669500Z",
+    "action": "Logon",
+    "user": "user-acb9",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-22T18:40:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-acb9",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-26T09:17:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-0a8a",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T19:48:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-0a8a",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T08:23:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-806e",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-25T14:05:07.669500Z",
+    "action": "Logon",
+    "user": "user-fbf7",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T05:32:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-8e55",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": false,
+    "details": "Invalid credentials"
+  },
+  {
+    "event_time": "2025-05-25T03:35:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-acb9",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-26T21:12:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-806e",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-26T16:09:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-fbf7",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": false,
+    "details": "Invalid credentials"
+  },
+  {
+    "event_time": "2025-05-27T18:12:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-befd",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T12:04:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-54c8",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-22T05:42:07.669500Z",
+    "action": "Logon",
+    "user": "user-fbf7",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T11:58:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-848f",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-23T02:56:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-806e",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T14:23:07.669500Z",
+    "action": "Logon",
+    "user": "user-befd",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-26T17:28:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-0a8a",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-28T01:22:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-befd",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-24T17:56:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-befd",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T15:53:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-fbf3",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T10:44:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-fbf3",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T07:58:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-8e55",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-22T11:44:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-848f",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-23T01:54:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-8e55",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false,
+    "details": "Invalid credentials"
+  },
+  {
+    "event_time": "2025-05-27T09:52:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-acb9",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T17:05:07.669500Z",
+    "action": "Logon",
+    "user": "user-806e",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T20:44:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-54c8",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-23T13:10:07.669500Z",
+    "action": "Logon",
+    "user": "user-fbf7",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T22:50:07.669500Z",
+    "action": "Logon",
+    "user": "user-acb9",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-25T20:00:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-acb9",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T02:54:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-848f",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-23T18:25:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-9da3",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T02:48:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-9da3",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-25T21:36:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-848f",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false,
+    "details": "Invalid credentials"
+  },
+  {
+    "event_time": "2025-05-25T22:00:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-0a8a",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T06:53:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-fbf7",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T05:32:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-acb9",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T03:18:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-fbf7",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-24T19:48:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-befd",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-24T03:10:07.669500Z",
+    "action": "Logon",
+    "user": "user-befd",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T11:36:07.669500Z",
+    "action": "Logon",
+    "user": "user-acb9",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T01:10:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-fbf7",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-22T16:07:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-acb9",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T21:28:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-befd",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T00:01:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-0a8a",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T18:55:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-806e",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-27T22:16:07.669500Z",
+    "action": "Logon",
+    "user": "user-9da3",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T01:48:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-0a8a",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-25T18:10:07.669500Z",
+    "action": "Logon",
+    "user": "user-8e55",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T13:53:07.669500Z",
+    "action": "Logon",
+    "user": "user-806e",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T11:33:07.669500Z",
+    "action": "Logon",
+    "user": "user-848f",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T09:35:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-fbf3",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-28T01:42:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-0a8a",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-28T09:55:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-848f",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-26T14:50:07.669500Z",
+    "action": "Logon",
+    "user": "user-8e55",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-24T13:29:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-0a8a",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T11:55:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-8e55",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T14:20:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-806e",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T18:13:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-8e55",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T05:27:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-0a8a",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T06:54:07.669500Z",
+    "action": "Logon",
+    "user": "user-806e",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T19:23:07.669500Z",
+    "action": "Logon",
+    "user": "user-fbf7",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T21:46:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-0a8a",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T23:34:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-0a8a",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": false,
+    "details": "Session expired"
+  },
+  {
+    "event_time": "2025-05-24T03:55:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-befd",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false,
+    "details": "Invalid credentials"
+  },
+  {
+    "event_time": "2025-05-29T02:22:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-acb9",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-25T15:06:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-acb9",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-28T22:49:07.669500Z",
+    "action": "Logon",
+    "user": "user-befd",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-24T23:32:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-806e",
+    "safe": "Network-Team",
+    "platform": "Network",
+    "success": false,
+    "details": "Invalid credentials"
+  },
+  {
+    "event_time": "2025-05-23T12:00:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-acb9",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-23T22:04:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-fbf3",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T10:04:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-9da3",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T13:40:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-848f",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T05:01:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-fbf3",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-28T14:28:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-fbf3",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-24T01:33:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-fbf3",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-24T07:43:07.669500Z",
+    "action": "Logon",
+    "user": "user-acb9",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T19:06:07.669500Z",
+    "action": "Logon",
+    "user": "user-54c8",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T16:00:07.669500Z",
+    "action": "Logon",
+    "user": "user-fbf7",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T07:31:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-9da3",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-22T07:50:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-befd",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-24T07:26:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-acb9",
+    "safe": "Oracle-DB",
+    "platform": "Database",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T17:49:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-fbf7",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-25T06:03:07.669500Z",
+    "action": "Logon",
+    "user": "user-9da3",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T07:57:07.669500Z",
+    "action": "Logon",
+    "user": "user-9da3",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": false
+  },
+  {
+    "event_time": "2025-05-23T18:26:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-8e55",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T08:52:07.669500Z",
+    "action": "Logon",
+    "user": "user-54c8",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-26T20:41:07.669500Z",
+    "action": "Reconcile",
+    "user": "user-0a8a",
+    "safe": "AWS-Keys",
+    "platform": "Cloud",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-27T14:37:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-0a8a",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-23T04:27:07.669500Z",
+    "action": "Logon",
+    "user": "user-9da3",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": true
+  },
+  {
+    "event_time": "2025-05-24T18:59:07.669500Z",
+    "action": "LogonFailure",
+    "user": "user-54c8",
+    "safe": "Linux-Prod",
+    "platform": "Unix",
+    "success": false,
+    "details": "Account disabled"
+  },
+  {
+    "event_time": "2025-05-23T06:58:07.669500Z",
+    "action": "CheckOut",
+    "user": "user-806e",
+    "safe": "Windows-Admins",
+    "platform": "Windows",
+    "success": true
+  }
+]
