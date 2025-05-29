@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+  background-color: #f7f7f7;
+}
+canvas {
+  max-width: 600px;
+}
