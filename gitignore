@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+*.sqlite3
+
+# Node modules (if frontend tools used)
+node_modules/
+
+# AWS SAM / CDK
+.aws-sam/
+cdk.out/
+
+# Logs
+*.log
