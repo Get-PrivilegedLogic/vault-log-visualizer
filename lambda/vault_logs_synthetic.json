@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "f8963cc1-99b4-44ce-864e-83d2715ada84",
+    "timestamp": "2025-05-25T20:58:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.314565Z"
+  },
+  {
+    "id": "461efb4f-e028-4649-9f9d-5b3a0ecf8b80",
+    "timestamp": "2025-05-23T14:17:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.314912Z"
+  },
+  {
+    "id": "00686a34-2d13-4987-9f59-aeeb26aa44ab",
+    "timestamp": "2025-05-28T22:20:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.315033Z"
+  },
+  {
+    "id": "812386bb-6a4e-4ad8-88b4-57164d0bab20",
+    "timestamp": "2025-05-27T14:27:12.314129Z",
+    "platform": "Cloud",
+    "username": "svc_cloud_ops",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.315124Z"
+  },
+  {
+    "id": "4ac5ec35-7c6c-47a3-8659-81f7bf83c08d",
+    "timestamp": "2025-05-25T17:49:12.314129Z",
+    "platform": "Cloud",
+    "username": "aws_lambda",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.315352Z"
+  },
+  {
+    "id": "af95e33f-953f-4f74-b6eb-e324dc850812",
+    "timestamp": "2025-05-22T22:40:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.315456Z"
+  },
+  {
+    "id": "9f6dd081-4bb7-47cf-8b59-bc5dacc2b5cb",
+    "timestamp": "2025-05-28T14:52:12.314129Z",
+    "platform": "Unix",
+    "username": "user_unix02",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.315552Z"
+  },
+  {
+    "id": "5067c6ed-67c3-4aa7-959c-1e88c0b5f4d9",
+    "timestamp": "2025-05-29T03:06:12.314129Z",
+    "platform": "Cloud",
+    "username": "gcp_vm",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316037Z"
+  },
+  {
+    "id": "049c0d1e-5e7e-4239-9c55-f4cc6eef8b2a",
+    "timestamp": "2025-05-25T15:07:12.314129Z",
+    "platform": "Network",
+    "username": "switch_ops",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316126Z"
+  },
+  {
+    "id": "e221d782-387a-4080-926e-185be97a3668",
+    "timestamp": "2025-05-24T23:32:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316182Z"
+  },
+  {
+    "id": "69e27dd3-06d0-4843-bee7-dcfe5938834e",
+    "timestamp": "2025-05-29T12:48:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316227Z"
+  },
+  {
+    "id": "b7c260ac-d722-461f-a024-4ea7a33a8b62",
+    "timestamp": "2025-05-24T08:59:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316287Z"
+  },
+  {
+    "id": "841acf0d-f32d-43bd-a33a-b366b68c5706",
+    "timestamp": "2025-05-28T21:01:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316325Z"
+  },
+  {
+    "id": "dc357c68-06f2-413c-968b-fa2333d68e2f",
+    "timestamp": "2025-05-24T14:55:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.316343Z"
+  },
+  {
+    "id": "d9b69ddf-fe70-4a4e-869b-96e5bffa81c5",
+    "timestamp": "2025-05-25T21:20:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316397Z"
+  },
+  {
+    "id": "244fcc4c-aa52-40f8-8475-c5cf4aaf4d23",
+    "timestamp": "2025-05-28T05:38:12.314129Z",
+    "platform": "Windows",
+    "username": "backup_win",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316445Z"
+  },
+  {
+    "id": "88bb1a0b-afe7-4ca0-b576-fd0c40468cd3",
+    "timestamp": "2025-05-24T17:37:12.314129Z",
+    "platform": "Cloud",
+    "username": "aws_lambda",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316512Z"
+  },
+  {
+    "id": "df96ff8a-398c-4b13-9491-737f3d96e5c2",
+    "timestamp": "2025-05-29T00:45:12.314129Z",
+    "platform": "Cloud",
+    "username": "svc_cloud_ops",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316554Z"
+  },
+  {
+    "id": "e9adf8fb-0091-4392-ab4a-84d87f0d9a9f",
+    "timestamp": "2025-05-29T04:40:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316580Z"
+  },
+  {
+    "id": "26ddcc91-a884-428e-ae23-1d56dc1c2f82",
+    "timestamp": "2025-05-27T06:50:12.314129Z",
+    "platform": "Network",
+    "username": "switch_ops",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316629Z"
+  },
+  {
+    "id": "a1b423ef-3cac-4fa4-9020-eb18a036f72e",
+    "timestamp": "2025-05-24T21:11:12.314129Z",
+    "platform": "Network",
+    "username": "switch_ops",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316708Z"
+  },
+  {
+    "id": "5a8df694-1247-4caf-9c13-2a04c3c570c8",
+    "timestamp": "2025-05-25T23:32:12.314129Z",
+    "platform": "Unix",
+    "username": "daemon_usr",
+    "action": "CheckOut",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.316748Z"
+  },
+  {
+    "id": "fb96497c-920e-459f-b5c1-55e70385c14b",
+    "timestamp": "2025-05-25T06:45:12.314129Z",
+    "platform": "Cloud",
+    "username": "aws_lambda",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316799Z"
+  },
+  {
+    "id": "e9552072-6d4d-4025-8550-b3b1e4eb344f",
+    "timestamp": "2025-05-29T05:22:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.316822Z"
+  },
+  {
+    "id": "ee786832-d3dc-4252-b2be-f931a9f1f7a3",
+    "timestamp": "2025-05-29T05:36:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "Reconcile",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.316879Z"
+  },
+  {
+    "id": "6f908d9b-7004-4913-89ad-afc16b0a7681",
+    "timestamp": "2025-05-24T09:38:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.316944Z"
+  },
+  {
+    "id": "88d12808-5bcf-418a-8fdc-98bd5681e128",
+    "timestamp": "2025-05-28T18:33:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "Logon",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.317008Z"
+  },
+  {
+    "id": "48e45f86-efd7-403b-a2a3-0ea2fd637e1d",
+    "timestamp": "2025-05-27T07:42:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317065Z"
+  },
+  {
+    "id": "88eb3cee-cca1-46c2-a2a3-92d49f5700d7",
+    "timestamp": "2025-05-25T18:02:12.314129Z",
+    "platform": "Windows",
+    "username": "user_win01",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317113Z"
+  },
+  {
+    "id": "8b5c7af8-c756-4003-a3bb-e7cd24934eb3",
+    "timestamp": "2025-05-27T15:53:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.317138Z"
+  },
+  {
+    "id": "3489447b-7aa7-4f9a-ac54-eaccc0a24fa7",
+    "timestamp": "2025-05-26T19:38:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317171Z"
+  },
+  {
+    "id": "cfe5b632-4424-4edc-8e3e-2f84ab1db097",
+    "timestamp": "2025-05-26T09:12:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317251Z"
+  },
+  {
+    "id": "35cca09e-3ef1-482b-8277-179ddd9eff84",
+    "timestamp": "2025-05-26T22:13:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317327Z"
+  },
+  {
+    "id": "1954277e-7ba1-43f5-aa49-635d40a9f190",
+    "timestamp": "2025-05-23T19:14:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317383Z"
+  },
+  {
+    "id": "6982ef92-e3d3-4dfe-b670-5c67fd5490cb",
+    "timestamp": "2025-05-29T09:44:12.314129Z",
+    "platform": "Cloud",
+    "username": "aws_lambda",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.317400Z"
+  },
+  {
+    "id": "577a6218-9047-42e8-a6e3-e27f22647ac1",
+    "timestamp": "2025-05-23T06:16:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.317416Z"
+  },
+  {
+    "id": "aabae1f1-bedf-418f-97a7-99ad1ea1431b",
+    "timestamp": "2025-05-22T20:40:12.314129Z",
+    "platform": "Unix",
+    "username": "svc_unix",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317436Z"
+  },
+  {
+    "id": "dedf8eb2-03d8-4716-baa5-0718fa611853",
+    "timestamp": "2025-05-28T11:46:12.314129Z",
+    "platform": "Unix",
+    "username": "user_unix02",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317453Z"
+  },
+  {
+    "id": "d9f0bfe4-fe2e-41ab-8fd6-c73fddebf6ef",
+    "timestamp": "2025-05-25T05:40:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317478Z"
+  },
+  {
+    "id": "4ee08b57-3806-4103-86b9-8fbd3e595062",
+    "timestamp": "2025-05-27T18:35:12.314129Z",
+    "platform": "Unix",
+    "username": "user_unix02",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317508Z"
+  },
+  {
+    "id": "5dc59cbe-cfbc-4f2a-9480-2a1cc500d4f7",
+    "timestamp": "2025-05-27T23:22:12.314129Z",
+    "platform": "Database",
+    "username": "db_admin",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317580Z"
+  },
+  {
+    "id": "a51d96d3-8ae8-42c2-b5e2-cd2202e860f6",
+    "timestamp": "2025-05-26T21:11:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317624Z"
+  },
+  {
+    "id": "acb9a6a2-443a-4186-9108-e00330914795",
+    "timestamp": "2025-05-23T00:45:12.314129Z",
+    "platform": "Windows",
+    "username": "user_win01",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317666Z"
+  },
+  {
+    "id": "f2cac313-d483-4442-b66c-30b1eb37f9a6",
+    "timestamp": "2025-05-26T10:03:12.314129Z",
+    "platform": "Unix",
+    "username": "root01",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317717Z"
+  },
+  {
+    "id": "a0b06f68-9bca-4283-a3eb-fa5583eb939b",
+    "timestamp": "2025-05-26T04:18:12.314129Z",
+    "platform": "Windows",
+    "username": "user_win01",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317759Z"
+  },
+  {
+    "id": "4da8cdf7-8e30-45be-82b5-9b8423e6d409",
+    "timestamp": "2025-05-27T22:57:12.314129Z",
+    "platform": "Network",
+    "username": "switch_ops",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.317796Z"
+  },
+  {
+    "id": "aea0a2b3-09f3-4101-8de4-29a9390f867a",
+    "timestamp": "2025-05-28T09:18:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317817Z"
+  },
+  {
+    "id": "f6173865-5b04-43f4-8deb-33390e027351",
+    "timestamp": "2025-05-23T13:40:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.317832Z"
+  },
+  {
+    "id": "bec7b703-ba43-43ee-a4ba-b15b375bc7dc",
+    "timestamp": "2025-05-26T01:21:12.314129Z",
+    "platform": "Unix",
+    "username": "root01",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317849Z"
+  },
+  {
+    "id": "98444fd1-359e-48f2-9e88-f10a4155eb31",
+    "timestamp": "2025-05-27T17:34:12.314129Z",
+    "platform": "Database",
+    "username": "db_admin",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317866Z"
+  },
+  {
+    "id": "d1821f05-fe04-40b8-af63-70f145020254",
+    "timestamp": "2025-05-26T08:29:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.317924Z"
+  },
+  {
+    "id": "2155318e-0bd4-4c7d-90ea-b324ed1f2a39",
+    "timestamp": "2025-05-23T17:28:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.317965Z"
+  },
+  {
+    "id": "a87f8e65-7462-4913-869f-214edece3559",
+    "timestamp": "2025-05-28T05:44:12.314129Z",
+    "platform": "Network",
+    "username": "switch_ops",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318030Z"
+  },
+  {
+    "id": "89c52e1d-a9f8-464d-94a6-9fc89254f08c",
+    "timestamp": "2025-05-27T15:35:12.314129Z",
+    "platform": "Database",
+    "username": "db_admin",
+    "action": "CheckOut",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.318094Z"
+  },
+  {
+    "id": "81ab0356-e738-415f-97ce-26381757f26a",
+    "timestamp": "2025-05-25T05:18:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318138Z"
+  },
+  {
+    "id": "b5bb6645-8bb1-47a0-afa9-9544c36afa89",
+    "timestamp": "2025-05-25T13:59:12.314129Z",
+    "platform": "Unix",
+    "username": "daemon_usr",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.318180Z"
+  },
+  {
+    "id": "7e7b70f0-d3c7-44fc-a6a6-ca4ed48999c4",
+    "timestamp": "2025-05-26T16:51:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "Logon",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.318203Z"
+  },
+  {
+    "id": "44a35e39-ba00-459d-be1b-04b938621da3",
+    "timestamp": "2025-05-25T08:27:12.314129Z",
+    "platform": "Unix",
+    "username": "daemon_usr",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318223Z"
+  },
+  {
+    "id": "147af893-a11d-47c0-9335-bd6e2402274c",
+    "timestamp": "2025-05-28T07:44:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318244Z"
+  },
+  {
+    "id": "3226fe27-7fef-41b6-b3de-25516cbc863f",
+    "timestamp": "2025-05-29T14:00:12.314129Z",
+    "platform": "Cloud",
+    "username": "gcp_vm",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318265Z"
+  },
+  {
+    "id": "0d482f30-3664-4085-80da-a63a70ed4f26",
+    "timestamp": "2025-05-26T13:13:12.314129Z",
+    "platform": "Cloud",
+    "username": "gcp_vm",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.318299Z"
+  },
+  {
+    "id": "f889fe4a-a812-4696-b06f-31fc8bd94e45",
+    "timestamp": "2025-05-24T12:17:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.318336Z"
+  },
+  {
+    "id": "4c253ac2-fa5c-44ee-812e-d32d7307afe5",
+    "timestamp": "2025-05-28T08:41:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318397Z"
+  },
+  {
+    "id": "3ddea5be-f0c9-410f-a781-009287ca10cd",
+    "timestamp": "2025-05-28T07:36:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "Logon",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.318472Z"
+  },
+  {
+    "id": "7385c06e-8473-4da7-a136-c852af0d55e2",
+    "timestamp": "2025-05-24T18:18:12.314129Z",
+    "platform": "Unix",
+    "username": "user_unix02",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318511Z"
+  },
+  {
+    "id": "b5f669f1-476d-4e13-949f-0a492ad3e33c",
+    "timestamp": "2025-05-28T14:05:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318529Z"
+  },
+  {
+    "id": "d32f86cb-c981-4b8d-ac5a-2723bdb80aa5",
+    "timestamp": "2025-05-23T20:34:12.314129Z",
+    "platform": "Unix",
+    "username": "user_unix02",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318546Z"
+  },
+  {
+    "id": "d4a0773a-4067-4995-a623-a382b8ac4190",
+    "timestamp": "2025-05-26T05:48:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "Reconcile",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.318565Z"
+  },
+  {
+    "id": "4c8dd49c-af13-4fe9-b4ca-5337fad99569",
+    "timestamp": "2025-05-28T22:31:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318593Z"
+  },
+  {
+    "id": "7d216f04-2b45-411f-b447-9125051c4a4a",
+    "timestamp": "2025-05-29T04:10:12.314129Z",
+    "platform": "Unix",
+    "username": "daemon_usr",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318638Z"
+  },
+  {
+    "id": "869dcf7b-a2bd-4e17-81e7-ba7f16602298",
+    "timestamp": "2025-05-23T07:43:12.314129Z",
+    "platform": "Unix",
+    "username": "user_unix02",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318658Z"
+  },
+  {
+    "id": "722410f9-f6a0-4c81-8a92-ea867e8b4b15",
+    "timestamp": "2025-05-28T23:11:12.314129Z",
+    "platform": "Unix",
+    "username": "root01",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318688Z"
+  },
+  {
+    "id": "06c12ae9-0a9d-44a4-87c4-d1b3372a3086",
+    "timestamp": "2025-05-27T12:35:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318735Z"
+  },
+  {
+    "id": "7367eb42-6ad8-4844-8dac-0ddb60cb4d16",
+    "timestamp": "2025-05-25T03:18:12.314129Z",
+    "platform": "Cloud",
+    "username": "gcp_vm",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318787Z"
+  },
+  {
+    "id": "7ce31ebf-d1f6-4bc2-8b0e-fff30e51d0e9",
+    "timestamp": "2025-05-23T09:05:12.314129Z",
+    "platform": "Cloud",
+    "username": "aws_lambda",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318824Z"
+  },
+  {
+    "id": "8ebb33ec-0b5f-4be3-8c7c-be5673e4a561",
+    "timestamp": "2025-05-25T19:07:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318858Z"
+  },
+  {
+    "id": "e13657a0-d782-489e-9d6d-c06891d1c36d",
+    "timestamp": "2025-05-27T12:47:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318903Z"
+  },
+  {
+    "id": "e3741bab-1e62-4afd-8d84-d8ce2ebc53d5",
+    "timestamp": "2025-05-29T12:31:12.314129Z",
+    "platform": "Database",
+    "username": "db_admin",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318921Z"
+  },
+  {
+    "id": "cb8b88f5-4181-430e-82b1-3a844236d7d9",
+    "timestamp": "2025-05-27T15:18:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318939Z"
+  },
+  {
+    "id": "b03490e3-eac4-4145-b56c-5fe245c279e2",
+    "timestamp": "2025-05-23T07:14:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318956Z"
+  },
+  {
+    "id": "1cf87b92-ad8b-4776-a6aa-09b937e39008",
+    "timestamp": "2025-05-26T12:34:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318972Z"
+  },
+  {
+    "id": "f737a14f-81f0-49f7-b23e-aa1f90592d78",
+    "timestamp": "2025-05-26T05:48:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.318989Z"
+  },
+  {
+    "id": "f10cedb0-ddc2-4a85-959a-aac18e9700ef",
+    "timestamp": "2025-05-27T00:34:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319017Z"
+  },
+  {
+    "id": "5b5a991f-7f10-4e0b-8ed1-3d6f49032a62",
+    "timestamp": "2025-05-25T16:50:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319036Z"
+  },
+  {
+    "id": "e3a7b84a-be55-4642-a6d3-534d1ed2a604",
+    "timestamp": "2025-05-28T03:44:12.314129Z",
+    "platform": "Cloud",
+    "username": "aws_lambda",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319059Z"
+  },
+  {
+    "id": "8c441148-47f7-433a-b353-c7a867fd130c",
+    "timestamp": "2025-05-23T08:05:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.319083Z"
+  },
+  {
+    "id": "31447f35-424f-496a-aab2-4a83c662a80f",
+    "timestamp": "2025-05-26T15:40:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.319106Z"
+  },
+  {
+    "id": "4cbae7a3-b43e-4320-9f99-6639ce948102",
+    "timestamp": "2025-05-27T05:52:12.314129Z",
+    "platform": "Cloud",
+    "username": "svc_cloud_ops",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.319123Z"
+  },
+  {
+    "id": "de470405-a7ae-40b7-89b0-c66fdce90e17",
+    "timestamp": "2025-05-23T01:09:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319141Z"
+  },
+  {
+    "id": "694fd16d-a663-40ee-9efe-2feca4117170",
+    "timestamp": "2025-05-27T00:58:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.319379Z"
+  },
+  {
+    "id": "387d5ac9-173e-4741-8281-c27dc8287912",
+    "timestamp": "2025-05-27T02:42:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.319438Z"
+  },
+  {
+    "id": "f861b105-66e6-4dc1-acbc-6927a658b2de",
+    "timestamp": "2025-05-27T22:09:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.319467Z"
+  },
+  {
+    "id": "927f9366-828a-4f5a-a289-0db841d63827",
+    "timestamp": "2025-05-25T17:26:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319521Z"
+  },
+  {
+    "id": "051ca620-50b9-4bf9-8a6e-a0b6fa9da88b",
+    "timestamp": "2025-05-27T22:06:12.314129Z",
+    "platform": "Unix",
+    "username": "svc_unix",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319546Z"
+  },
+  {
+    "id": "7f09c1ef-dcd4-4d34-ac6c-3c5e8de517d7",
+    "timestamp": "2025-05-29T09:25:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "Logon",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.319564Z"
+  },
+  {
+    "id": "9abc05b7-53be-445a-90d4-1ff2a1c57961",
+    "timestamp": "2025-05-29T08:37:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.319580Z"
+  },
+  {
+    "id": "d634b9e8-7a62-4ad6-bf95-2813df8d70eb",
+    "timestamp": "2025-05-22T23:02:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319605Z"
+  },
+  {
+    "id": "7c942658-1c68-4ca6-8af6-0a0290a93280",
+    "timestamp": "2025-05-28T09:36:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319643Z"
+  },
+  {
+    "id": "9e492acd-045f-474e-9ec6-09c1e7b6d510",
+    "timestamp": "2025-05-24T06:25:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319677Z"
+  },
+  {
+    "id": "a7ac8657-213f-4344-9e73-a6eaa92907fb",
+    "timestamp": "2025-05-23T16:06:12.314129Z",
+    "platform": "Database",
+    "username": "db_admin",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319699Z"
+  },
+  {
+    "id": "88df693c-9487-4a5f-9690-157c9b580566",
+    "timestamp": "2025-05-29T15:17:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319761Z"
+  },
+  {
+    "id": "73071bec-f5b2-4f3b-b43a-7546077adbfa",
+    "timestamp": "2025-05-27T07:27:12.314129Z",
+    "platform": "Cloud",
+    "username": "gcp_vm",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319805Z"
+  },
+  {
+    "id": "9137172c-7162-4070-b20a-6da2663bc865",
+    "timestamp": "2025-05-25T02:48:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319828Z"
+  },
+  {
+    "id": "3e6fc4d5-a6f2-4806-a457-90f6acb351a5",
+    "timestamp": "2025-05-25T20:06:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319853Z"
+  },
+  {
+    "id": "30bfae7f-129e-4034-8538-ad5cabd66968",
+    "timestamp": "2025-05-27T05:21:12.314129Z",
+    "platform": "Windows",
+    "username": "user_win01",
+    "action": "Reconcile",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.319922Z"
+  },
+  {
+    "id": "cbf0e9cc-dcea-4d13-8460-4e2a8dc7bfa3",
+    "timestamp": "2025-05-25T01:39:12.314129Z",
+    "platform": "Network",
+    "username": "switch_ops",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.319972Z"
+  },
+  {
+    "id": "f9b60f76-9d10-4e9e-88a5-7e691695ef0d",
+    "timestamp": "2025-05-28T02:19:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.319989Z"
+  },
+  {
+    "id": "9f08de97-65f1-4447-8e09-ffef610142a8",
+    "timestamp": "2025-05-28T17:08:12.314129Z",
+    "platform": "Cloud",
+    "username": "gcp_vm",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.320010Z"
+  },
+  {
+    "id": "766bbd28-1581-42fd-be39-586ac63b154e",
+    "timestamp": "2025-05-26T23:54:12.314129Z",
+    "platform": "Windows",
+    "username": "backup_win",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.320024Z"
+  },
+  {
+    "id": "6987325e-2b66-4a44-b748-cdb29044a450",
+    "timestamp": "2025-05-22T22:03:12.314129Z",
+    "platform": "Unix",
+    "username": "user_unix02",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.320042Z"
+  },
+  {
+    "id": "43a45e7d-5f74-466e-8a7a-73d95f6bf8ab",
+    "timestamp": "2025-05-25T14:57:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.320063Z"
+  },
+  {
+    "id": "9fa4537e-a343-40a9-b094-97fde7bf180e",
+    "timestamp": "2025-05-28T19:46:12.314129Z",
+    "platform": "Cloud",
+    "username": "svc_cloud_ops",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.320104Z"
+  },
+  {
+    "id": "d3bba34e-4154-4a17-84c7-71e1a061f336",
+    "timestamp": "2025-05-22T21:10:12.314129Z",
+    "platform": "Unix",
+    "username": "root01",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.320161Z"
+  },
+  {
+    "id": "fe68b67f-8f73-4fd7-9b7f-5dbdf81478ab",
+    "timestamp": "2025-05-26T06:48:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.320363Z"
+  },
+  {
+    "id": "25d51676-ce19-408d-8554-657bd7a11d4b",
+    "timestamp": "2025-05-27T07:01:12.314129Z",
+    "platform": "Network",
+    "username": "switch_ops",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.320531Z"
+  },
+  {
+    "id": "8855898d-6749-434a-a856-9b7dd4cf75db",
+    "timestamp": "2025-05-25T14:26:12.314129Z",
+    "platform": "Windows",
+    "username": "backup_win",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.320641Z"
+  },
+  {
+    "id": "19d05677-225d-45af-b6b2-c52ab1084f56",
+    "timestamp": "2025-05-29T01:37:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.320719Z"
+  },
+  {
+    "id": "72bf160d-3a4f-4d39-a318-faaec807b37d",
+    "timestamp": "2025-05-28T18:45:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.320910Z"
+  },
+  {
+    "id": "37cc30c4-cddf-4083-b2bd-fc9f4b05f9fc",
+    "timestamp": "2025-05-26T20:01:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321022Z"
+  },
+  {
+    "id": "c2678eb1-dc6d-4ac8-923a-4aca99a3c356",
+    "timestamp": "2025-05-28T08:40:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321094Z"
+  },
+  {
+    "id": "2611b4dd-4938-4982-a239-be9cdcdf95a8",
+    "timestamp": "2025-05-23T04:34:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.321125Z"
+  },
+  {
+    "id": "405eb434-e957-405a-93a9-c6e88a74a661",
+    "timestamp": "2025-05-23T03:41:12.314129Z",
+    "platform": "Cloud",
+    "username": "gcp_vm",
+    "action": "CheckOut",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.321165Z"
+  },
+  {
+    "id": "552bea8b-9a64-45b8-a599-c3ef1aba388b",
+    "timestamp": "2025-05-27T14:11:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321185Z"
+  },
+  {
+    "id": "aafe1bec-cbf5-4b61-8da3-013b4f828955",
+    "timestamp": "2025-05-26T12:59:12.314129Z",
+    "platform": "Unix",
+    "username": "svc_unix",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.321201Z"
+  },
+  {
+    "id": "1ac28a7b-8b44-4827-b143-20da749a45e2",
+    "timestamp": "2025-05-27T19:21:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321217Z"
+  },
+  {
+    "id": "30074e38-2d4c-469b-a27d-b71ad7217be8",
+    "timestamp": "2025-05-24T00:10:12.314129Z",
+    "platform": "Windows",
+    "username": "user_win01",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321240Z"
+  },
+  {
+    "id": "7fd06fee-76f2-409d-b976-f7bcf22af63d",
+    "timestamp": "2025-05-24T05:04:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321280Z"
+  },
+  {
+    "id": "056fa447-544f-4095-b677-33a7a5baaca8",
+    "timestamp": "2025-05-22T21:53:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321314Z"
+  },
+  {
+    "id": "6fcf0a1f-4378-4b99-a6d6-f08caa2c7010",
+    "timestamp": "2025-05-23T22:58:12.314129Z",
+    "platform": "Database",
+    "username": "db_admin",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321358Z"
+  },
+  {
+    "id": "5d60f1ae-0b7d-4c65-8354-d6ad6458c887",
+    "timestamp": "2025-05-28T20:33:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321399Z"
+  },
+  {
+    "id": "06569d37-060b-4808-9625-fb49664fa5b8",
+    "timestamp": "2025-05-27T02:15:12.314129Z",
+    "platform": "Unix",
+    "username": "svc_unix",
+    "action": "Reconcile",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.321438Z"
+  },
+  {
+    "id": "7c1e0494-6979-440a-89d2-3e9efcf2f69d",
+    "timestamp": "2025-05-28T05:11:12.314129Z",
+    "platform": "Database",
+    "username": "db_admin",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321456Z"
+  },
+  {
+    "id": "7dd2e4ec-1a81-4817-acbe-761e4886a4a5",
+    "timestamp": "2025-05-26T19:01:12.314129Z",
+    "platform": "Cloud",
+    "username": "gcp_vm",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321480Z"
+  },
+  {
+    "id": "2e79dc2b-83c8-49cc-bc9e-ae1d79cede7e",
+    "timestamp": "2025-05-23T11:01:12.314129Z",
+    "platform": "Cloud",
+    "username": "svc_cloud_ops",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.321534Z"
+  },
+  {
+    "id": "721eff9e-403c-4299-a7ab-754302abd371",
+    "timestamp": "2025-05-27T07:43:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321591Z"
+  },
+  {
+    "id": "d528e908-954e-476c-aba5-b0b799c8524f",
+    "timestamp": "2025-05-27T19:30:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "CheckOut",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.321649Z"
+  },
+  {
+    "id": "81aea01a-3473-4dd0-b535-e0ba02eacd45",
+    "timestamp": "2025-05-28T23:10:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321699Z"
+  },
+  {
+    "id": "3a093fad-761d-4ef5-bcc4-21d9c59b375d",
+    "timestamp": "2025-05-26T05:31:12.314129Z",
+    "platform": "Windows",
+    "username": "backup_win",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321742Z"
+  },
+  {
+    "id": "2230758e-cdbd-4527-a8dc-b531cc583b98",
+    "timestamp": "2025-05-26T20:45:12.314129Z",
+    "platform": "Windows",
+    "username": "user_win01",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321797Z"
+  },
+  {
+    "id": "f36a9c20-b74f-466d-9b7a-9cf03f9b92ae",
+    "timestamp": "2025-05-23T09:55:12.314129Z",
+    "platform": "Cloud",
+    "username": "aws_lambda",
+    "action": "Reconcile",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.321818Z"
+  },
+  {
+    "id": "b9401cdc-2e1f-4102-9b85-a326d461403c",
+    "timestamp": "2025-05-26T22:04:12.314129Z",
+    "platform": "Unix",
+    "username": "svc_unix",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321842Z"
+  },
+  {
+    "id": "c8944e26-7d22-4899-a20d-0611a2abcee3",
+    "timestamp": "2025-05-22T22:48:12.314129Z",
+    "platform": "Unix",
+    "username": "user_unix02",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321893Z"
+  },
+  {
+    "id": "963b1d53-68d2-4576-9443-0874ef31e423",
+    "timestamp": "2025-05-27T07:42:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.321914Z"
+  },
+  {
+    "id": "b8308305-f5c4-4c0a-b300-10d4ced9e1c5",
+    "timestamp": "2025-05-24T13:24:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.321930Z"
+  },
+  {
+    "id": "548f73ee-4c25-498c-9411-10bf6d28b453",
+    "timestamp": "2025-05-29T15:47:12.314129Z",
+    "platform": "Cloud",
+    "username": "svc_cloud_ops",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.321952Z"
+  },
+  {
+    "id": "06c49dba-cfc6-419a-b1bd-ff0d46e69518",
+    "timestamp": "2025-05-23T07:40:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.322154Z"
+  },
+  {
+    "id": "0769db80-21ca-4723-a42a-8a79cb08a016",
+    "timestamp": "2025-05-26T04:25:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.322236Z"
+  },
+  {
+    "id": "325eab6d-6180-4462-8cf4-bfb4fbff2495",
+    "timestamp": "2025-05-28T06:44:12.314129Z",
+    "platform": "Unix",
+    "username": "root01",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.322283Z"
+  },
+  {
+    "id": "4f8edddc-9ca9-4ed6-a561-c1fccf61a90d",
+    "timestamp": "2025-05-23T22:51:12.314129Z",
+    "platform": "Database",
+    "username": "db_admin",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.322363Z"
+  },
+  {
+    "id": "25ae77fb-89e3-4823-9c5b-be06999363e5",
+    "timestamp": "2025-05-28T22:06:12.314129Z",
+    "platform": "Cloud",
+    "username": "aws_lambda",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.322434Z"
+  },
+  {
+    "id": "3ed42b48-39f0-442b-b0d0-46893e953141",
+    "timestamp": "2025-05-27T00:05:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "Logon",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.322456Z"
+  },
+  {
+    "id": "fe60ddf8-a856-45b9-aaee-2d928ba64ff4",
+    "timestamp": "2025-05-29T02:02:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.322474Z"
+  },
+  {
+    "id": "c8e49e61-9d34-4d76-a243-9591e5c1c436",
+    "timestamp": "2025-05-29T02:40:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "CheckOut",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.322491Z"
+  },
+  {
+    "id": "61943e0d-c068-49fb-ace1-ac2968ac1793",
+    "timestamp": "2025-05-26T03:55:12.314129Z",
+    "platform": "Cloud",
+    "username": "aws_lambda",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.322523Z"
+  },
+  {
+    "id": "feeab20d-2a7b-469e-986f-75ec901b8dca",
+    "timestamp": "2025-05-23T12:19:12.314129Z",
+    "platform": "Cloud",
+    "username": "svc_cloud_ops",
+    "action": "CheckOut",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.322573Z"
+  },
+  {
+    "id": "65120d98-19bb-45ce-87d5-e081c89eed65",
+    "timestamp": "2025-05-23T17:31:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.322621Z"
+  },
+  {
+    "id": "64a6890e-aee3-4f2a-bd34-85563df4db58",
+    "timestamp": "2025-05-28T10:17:12.314129Z",
+    "platform": "Unix",
+    "username": "daemon_usr",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.322878Z"
+  },
+  {
+    "id": "c6f90ee5-1293-4341-ab51-61f8dc23ecb2",
+    "timestamp": "2025-05-29T14:46:12.314129Z",
+    "platform": "Unix",
+    "username": "daemon_usr",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.322959Z"
+  },
+  {
+    "id": "a44db496-6d05-4304-878f-f43d088f13b3",
+    "timestamp": "2025-05-24T18:37:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.323021Z"
+  },
+  {
+    "id": "ea1b3a45-099e-460c-b906-b16012c36657",
+    "timestamp": "2025-05-27T17:57:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.323076Z"
+  },
+  {
+    "id": "f6517345-9416-4e72-b28c-af7518da3755",
+    "timestamp": "2025-05-28T21:47:12.314129Z",
+    "platform": "Unix",
+    "username": "svc_unix",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.323126Z"
+  },
+  {
+    "id": "7eb23981-729b-400d-9429-0192b0c147f5",
+    "timestamp": "2025-05-26T15:01:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.323543Z"
+  },
+  {
+    "id": "744ecbd6-20d4-4ab5-abc0-174161c20cef",
+    "timestamp": "2025-05-24T23:37:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.323613Z"
+  },
+  {
+    "id": "f38a6e1d-6feb-43f2-b3b8-4f3f4c065c4b",
+    "timestamp": "2025-05-26T13:55:12.314129Z",
+    "platform": "Unix",
+    "username": "daemon_usr",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.323690Z"
+  },
+  {
+    "id": "5d20aa73-5e3a-4798-ac12-bbfc77244587",
+    "timestamp": "2025-05-27T14:11:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.323780Z"
+  },
+  {
+    "id": "52eb345c-ada0-49e0-8191-1941ae6ab946",
+    "timestamp": "2025-05-29T18:05:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.323834Z"
+  },
+  {
+    "id": "d4acb5e7-2ed0-402f-abec-d8b58e1469b3",
+    "timestamp": "2025-05-27T07:26:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.323877Z"
+  },
+  {
+    "id": "854502c1-2dd4-4ef2-ae62-44e9bef27488",
+    "timestamp": "2025-05-24T02:06:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.323898Z"
+  },
+  {
+    "id": "c604712e-6d21-44e7-a869-5dfb6d248898",
+    "timestamp": "2025-05-25T16:43:12.314129Z",
+    "platform": "Cloud",
+    "username": "aws_lambda",
+    "action": "Logon",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.323920Z"
+  },
+  {
+    "id": "6a1fa6bf-eabb-4bc5-a588-036ff92938ab",
+    "timestamp": "2025-05-22T21:46:12.314129Z",
+    "platform": "Unix",
+    "username": "daemon_usr",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.323948Z"
+  },
+  {
+    "id": "83fe11cd-7c4c-4866-bd82-c93c82d9384d",
+    "timestamp": "2025-05-27T14:33:12.314129Z",
+    "platform": "Unix",
+    "username": "user_unix02",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.323994Z"
+  },
+  {
+    "id": "8230d383-7660-4799-b955-9f65229caba6",
+    "timestamp": "2025-05-23T23:26:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324043Z"
+  },
+  {
+    "id": "1fb794c6-20f2-462d-85bf-75cc14ab58d6",
+    "timestamp": "2025-05-25T05:55:12.314129Z",
+    "platform": "Network",
+    "username": "svc_netmon",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324061Z"
+  },
+  {
+    "id": "114166e4-a8a8-4ee9-b0e1-a0713b2ff929",
+    "timestamp": "2025-05-26T17:51:12.314129Z",
+    "platform": "Database",
+    "username": "db_admin",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324095Z"
+  },
+  {
+    "id": "16e4cf88-f9f9-4d47-8af3-5714a9bb46c1",
+    "timestamp": "2025-05-23T16:32:12.314129Z",
+    "platform": "Windows",
+    "username": "backup_win",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.324144Z"
+  },
+  {
+    "id": "3ca21a82-a99a-40c9-95f0-0bf0fdf4a35e",
+    "timestamp": "2025-05-26T00:33:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324189Z"
+  },
+  {
+    "id": "565f7590-c9b6-45c5-9eb6-0edc33bbfc80",
+    "timestamp": "2025-05-27T21:23:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324257Z"
+  },
+  {
+    "id": "125bb303-6cf7-42f1-ac41-71350cf9fa25",
+    "timestamp": "2025-05-26T10:16:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324298Z"
+  },
+  {
+    "id": "a9afaac7-5b04-4f0f-b2d9-5f7a9e056964",
+    "timestamp": "2025-05-25T16:15:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324316Z"
+  },
+  {
+    "id": "510f6639-2ecf-4abb-a77b-d39bbe0e30a9",
+    "timestamp": "2025-05-29T06:54:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324333Z"
+  },
+  {
+    "id": "eb97c204-4cee-4a6e-99c6-70385c860ca5",
+    "timestamp": "2025-05-28T00:02:12.314129Z",
+    "platform": "Unix",
+    "username": "root01",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.324352Z"
+  },
+  {
+    "id": "c01ce4d6-df40-4d22-8252-75bdfc3c49ae",
+    "timestamp": "2025-05-26T04:28:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.324367Z"
+  },
+  {
+    "id": "d60897c7-399c-4170-8d84-722e02da76ff",
+    "timestamp": "2025-05-26T07:16:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324390Z"
+  },
+  {
+    "id": "6e15ee3a-819c-4810-86b6-3b340509edb2",
+    "timestamp": "2025-05-25T05:23:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.324420Z"
+  },
+  {
+    "id": "226432c1-2fe0-4184-bdae-e97e31e32698",
+    "timestamp": "2025-05-26T23:09:12.314129Z",
+    "platform": "Windows",
+    "username": "backup_win",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324525Z"
+  },
+  {
+    "id": "df66935d-7953-4624-9dd3-037da32da64e",
+    "timestamp": "2025-05-26T06:26:12.314129Z",
+    "platform": "Windows",
+    "username": "admin01",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324609Z"
+  },
+  {
+    "id": "35adcdf5-352f-4abc-b73b-81802a51a301",
+    "timestamp": "2025-05-22T23:21:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324662Z"
+  },
+  {
+    "id": "b28e7692-7ab4-43f7-ab09-51d25a50f963",
+    "timestamp": "2025-05-28T04:35:12.314129Z",
+    "platform": "Network",
+    "username": "netadmin",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324684Z"
+  },
+  {
+    "id": "bb1c683d-00b0-4a9e-9212-b50a10f2303d",
+    "timestamp": "2025-05-23T16:07:12.314129Z",
+    "platform": "Unix",
+    "username": "root01",
+    "action": "CheckOut",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324706Z"
+  },
+  {
+    "id": "93e82ead-94a8-4661-9b79-3bf91168c635",
+    "timestamp": "2025-05-27T11:29:12.314129Z",
+    "platform": "Database",
+    "username": "sql_exec",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324768Z"
+  },
+  {
+    "id": "51f59d26-785d-4b84-af10-3280fbe0a5b3",
+    "timestamp": "2025-05-27T20:18:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324842Z"
+  },
+  {
+    "id": "268874cd-4129-4ff3-8b29-1d61bf9310b4",
+    "timestamp": "2025-05-26T07:00:12.314129Z",
+    "platform": "Database",
+    "username": "db_admin",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324923Z"
+  },
+  {
+    "id": "af27018c-eff8-4195-88ff-b220d352c19a",
+    "timestamp": "2025-05-23T02:54:12.314129Z",
+    "platform": "Database",
+    "username": "oracle_user",
+    "action": "Reconcile",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.324950Z"
+  },
+  {
+    "id": "60e9a442-3290-42dc-b75e-cacac3ee4631",
+    "timestamp": "2025-05-29T01:08:12.314129Z",
+    "platform": "Unix",
+    "username": "user_unix02",
+    "action": "CheckOut",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.324973Z"
+  },
+  {
+    "id": "51b26be7-df4d-4241-84af-7259d48a40e5",
+    "timestamp": "2025-05-25T00:14:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.324991Z"
+  },
+  {
+    "id": "a51d8228-a941-4371-bc8a-76c9cb7c66b0",
+    "timestamp": "2025-05-28T21:52:12.314129Z",
+    "platform": "Windows",
+    "username": "user_win01",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.325008Z"
+  },
+  {
+    "id": "b3fac5d5-3f40-4cfe-8592-ff21069f2687",
+    "timestamp": "2025-05-23T17:08:12.314129Z",
+    "platform": "Windows",
+    "username": "svc_windows",
+    "action": "Reconcile",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.325043Z"
+  },
+  {
+    "id": "3ce264e0-6409-4173-b523-0163d8f72e34",
+    "timestamp": "2025-05-27T04:54:12.314129Z",
+    "platform": "Database",
+    "username": "db_backup",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.325122Z"
+  },
+  {
+    "id": "1f3876c3-44a6-4258-a774-9e32e3b4643e",
+    "timestamp": "2025-05-26T16:31:12.314129Z",
+    "platform": "Cloud",
+    "username": "azure_automation",
+    "action": "LogonFailure",
+    "status": "failed",
+    "ingested_at": "2025-05-29T18:25:12.325140Z"
+  },
+  {
+    "id": "b4a78841-06aa-48f6-934b-9ff394977f87",
+    "timestamp": "2025-05-24T21:26:12.314129Z",
+    "platform": "Network",
+    "username": "router_login",
+    "action": "Logon",
+    "status": "success",
+    "ingested_at": "2025-05-29T18:25:12.325159Z"
+  }
+]
